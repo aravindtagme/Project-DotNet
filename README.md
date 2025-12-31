@@ -1,4 +1,4 @@
-🏢 Employee Management Portal – ASP.NET Web Application
+🏢 Employee Attendance Portal – ASP.NET Web Application
 
 📌 Project Description
 
