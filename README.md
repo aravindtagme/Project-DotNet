@@ -8,7 +8,7 @@ The Employee Attendance Portal is a professional ASP.NET Web Application designe
 ✨ Key Features :
 
 
-📋 Live Attendance Reports: A structured GridView for employees and managers to view historical logs.
+📋 Live Attendance Reports: A structured GridView for employees to view historical logs.
 
 📊 View Attendance: A dynamic GridView report showing daily logs and entry/exit times.
 
